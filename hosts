@@ -1,0 +1,17 @@
+[codis-dashboard-servers]
+redis6378
+[codis-proxy-servers]
+redis6378
+[codis-servers]
+#192.168.1.253
+redis6378
+redis6377
+redis6376
+redis6375
+[codis-fe-servers]
+redis6378
+[redis-sentinel-servers]
+redis6378
+
+[one]
+redis6378

@@ -1,0 +1,5 @@
+
+kod: 6378
+
+codis_server_workdir: /data/redis-6378
+codis_server_port: 6378

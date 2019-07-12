@@ -1,0 +1,6 @@
+
+kod: 6377
+
+
+codis_server_workdir: /data/redis-6377
+codis_server_port: 6377
